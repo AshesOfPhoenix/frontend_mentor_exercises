@@ -1,0 +1,35 @@
+.page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 8px;
+    max-width: 360px;
+    border: 1px solid #ccc;
+}
+
+.text-container {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 8px;
+}
+
+.text-container h2 {
+    font-size: 1.3rem;
+    margin-bottom: 14px
+}
+
+.text-container p {
+    font-size: 1rem;
+}
