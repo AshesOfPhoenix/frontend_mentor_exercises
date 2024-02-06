@@ -6,6 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -16,6 +17,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![Alt text](/images/screenshot.png)
+
+### Links
+
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-OM9sZ76Sa3)
+- Live Site URL: [Add live site URL here](https://ashesofphoenix.github.io/frontend_mentor_exercises/qr-code-component/)
 
 ## My process
 
@@ -29,5 +35,5 @@ With this project I've learned more about the basic semantic HTML5 markup and ho
 
 ## Author
 
-- Frontend Mentor - [@AshesOfPhoenix](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@AshesOfPhoenix](https://www.frontendmentor.io/profile/AshesOfPhoenix)
 - Twitter - [@ItsKrisKriz](https://www.twitter.com/ItsKrisKriz)
